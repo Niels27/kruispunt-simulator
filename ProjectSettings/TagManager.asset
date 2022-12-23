@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trafficlight
+  - car
+  - waypoint
+  - boat
+  - cyclist
+  - pedestrian
+  - route
+  - zone
+  - sensor
+  - car waypoint
+  - cyclist waypoint
+  - pedestrian waypoint
+  - boat waypoint
+  - car sensor
+  - pedestrian sensor
+  - cyclist sensor
+  - roundabout zone
+  - trafficlight zone
+  - roundabout
+  - text
+  - roundabout cyclist zone
+  - roundabout exit zone
+  - barrier
+  - bridge zone
+  - bridge
+  - warning light
+  - boat sensor
+  - boat zone
+  - island zone
+  - bridge warning zone
+  - car hitbox
+  - kruispunt
+  - zipper zone
+  - roundabout camera
+  - crossroad camera
+  - bridge area
+  - bridge waiting zone
+  - cyclist hitbox
+  - pause
+  - controlled car
+  - fast zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - background
+  - Water
+  - UI
+  - traffic lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 500055995
+    locked: 0
+  - name: stoplights
+    uniqueID: 1916666591
+    locked: 0
